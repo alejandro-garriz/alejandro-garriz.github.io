@@ -9,11 +9,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"      #This can be used as a tab for pictures 
+  #  url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Blog Posts"     #This can be used for miscellanea
+  #  url: /year-archive/
     
   - title: "CV"
     url: /cv/
