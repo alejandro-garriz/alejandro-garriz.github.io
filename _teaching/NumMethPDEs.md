@@ -1,10 +1,10 @@
 ---
-title: "Méthodes Numeriques pour les EDPs"
+title: "Méthodes Numériques pour les EDPs (2022, 2023)"
 collection: teaching
 type: "Master course"
 permalink: /teaching/NumMethPDEs
 venue: "Université Paul Sabatier, FSI, Département de Mathématiques"
-date: 2022, 2023-01-01
+date: 2023-01-01
 location: "Toulouse, France"
 ---
 
