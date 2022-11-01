@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 5"
-collection: publications
-permalink: /publications/2015-10-01-paper-title-number-5
+collection: research
+permalink: /research/2015-10-01-paper-title-number-5
 excerpt: 'This paper is about the number 5. The number 5 is left for future work.'
 date: 2015-10-01
 venue: 'Journal 1'
