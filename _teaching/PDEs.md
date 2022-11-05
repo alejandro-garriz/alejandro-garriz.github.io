@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Équations aux Dérivées Partielles"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Master 1 course"
+permalink: /teaching/EDPs
+venue: "Université Paul Sabatier, FSI, Département de Mathématiques"
+date: 2022-01-01
+location: "Toulouse, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+A course for students in their first year of the Master. They learn about the numerical methods used in the study of Poisson's equation, the Heat Equation or the Transport Equation, with spetial attention payed to the theoretical justifiation of each numerical method.
 
 Heading 1
 ======
