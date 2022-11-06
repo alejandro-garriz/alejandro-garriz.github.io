@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,25 @@ redirect_from:
   - /about.html
 ---
 
+About me
+======
+I am a math researcher working on Partial Differential Equations (PDEs) and their applications. My areas of interest cover linear and non-linear parabolic and elliptic equations of many natures, presenting different local and non-local operators. Recently I have also broadened my line of work by studying PDE models applied to biology.
+
+I completed my PhD studies at the Universidad Autónoma de Madrid in January 2021 under the supervision of professor [Fernando Quirós](https://matematicas.uam.es/~fernando.quiros/) with the thesis *Large-time behaviour in local and non-local diffusion*. In it I discussed several properties of the solutions of three different evolution equations paying spetial attention to their behaviour at large times. A copy of the abstract can be found under the [CV](https://alejandro-garriz.github.io/cv/) tag.
+[comment]: <> (add pictures)
+
+During the last years I have also enjoyed stays of several months at the Universidad de Buenos Aires (Argentina), the University of Bucarest (Romania) and the Universidad de Granada (Spain), all of them opening me to new methods and lines of work. I also had the luck to share this time with some excellent researchers with whom I keep a friendly relationship.
+
+At the moment I have a post-doctoral researcher position at the CNRS radicated at the [Institut Montpelliérain Alexander Grothendieck](https://imag.umontpellier.fr/) (Montpellier) with the [ANR-DEEV project](https://www.math.univ-toulouse.fr/~smirrahi/ANR-DEEV.html), working with professor [Sepideh Mirrahimi](https://imag.umontpellier.fr/~mirrahimi/). However, most of the time I stay at the [Institut de Mathématiques de Toulouse](https://www.math.univ-toulouse.fr/fr/).
+
+Right now I am also teaching at the Université Paul Sabatier (Toulouse III) in Toulouse, France. I have had the chance to take part in courses of both degree and master level whose subjects ranged from pure theoretical math to applied mathematics and numerical simulations.
+
+
+
+
+
+A data-driven personal website
+======
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
