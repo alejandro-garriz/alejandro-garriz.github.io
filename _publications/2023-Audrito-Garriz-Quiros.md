@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2023-Audrito-Garriz-Quiros
 excerpt: ''
 date: 2023-01-01
-venue: 'arxiv'
+venue: arxiv
 paperurl: ''
 citation: 'Audrito, A.; Gárriz, A.; Quirós, F. “Convergence in relative error for the Porous Medium equation in a tube”. Preprint. Available at arXiv
 '
