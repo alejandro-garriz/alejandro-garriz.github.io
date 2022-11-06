@@ -1,5 +1,5 @@
 ---
-title: "A non-local coupling model involving three fractional laplacians - A. Garriz & L. Ignat (2021)"
+title: "A non-local coupling model involving three fractional laplacians - A. Gárriz & L. Ignat (2021)"
 collection: publications
 permalink: /publications/2021-Garriz-Ignat
 excerpt: ''
