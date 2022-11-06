@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
 I am a math researcher working on Partial Differential Equations (PDEs) and their applications. My areas of interest cover linear and non-linear parabolic and elliptic equations of many natures, presenting different local and non-local operators. Recently I have also broadened my line of work by studying PDE models applied to biology.
 
 I completed my PhD studies at the Universidad Autónoma de Madrid in January 2021 under the supervision of professor [Fernando Quirós](https://matematicas.uam.es/~fernando.quiros/) with the thesis *Large-time behaviour in local and non-local diffusion*. In it I discussed several properties of the solutions of three different evolution equations paying spetial attention to their behaviour at large times. A copy of the abstract can be found under the [CV](https://alejandro-garriz.github.io/cv/) tag.
-[comment]: <> (add pictures)
 
 During the last years I have also enjoyed stays of several months at the Universidad de Buenos Aires (Argentina), the University of Bucarest (Romania) and the Universidad de Granada (Spain), all of them opening me to new methods and lines of work. I also had the luck to share this time with some excellent researchers with whom I keep a friendly relationship.
 
