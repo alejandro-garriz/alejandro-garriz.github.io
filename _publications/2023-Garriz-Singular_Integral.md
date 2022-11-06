@@ -1,17 +1,17 @@
 ---
-title: "A non-local coupling model involving three fractional laplacians - A. Gárriz & L. Ignat (2021)"
+title: "Singular integral equations with applications to travelling waves for doubly nonlinear diffusion"
 collection: publications
 permalink: /publications/2021-Garriz-Ignat
 excerpt: ''
-date: 2021-05-18
+date: 2023-01-01
 venue: 'Bulletin of Mathematical Sciences'
 paperurl: ''
-citation: 'Gárriz, A.; Ignat, L. "A non-local coupling model involving three fractional laplacians". <i>Bulletin of Mathematical Sciences</i> Vol. 11, No. 02, 2150007 (2021)
+citation: 'Gárriz, A. "Singular integral equations with applications to travelling waves for doubly nonlinear diffusion." Preprint. Available at arXiv
 '
 ---
 **Abstract**
 
-In this paper we study a non-local diffusion problem that involves three different fractional Laplacian operators acting on two domains. Each domain has an associated operator that governs the diffusion on it, and the third operator serves as a coupling mechanism between the two of them. The model proposed is the gradient flow of a non-local energy functional. In the first part of the paper, we provide results about existence of solutions and the conservation of mass. The second part encompasses results about the Lp decay of the solutions. The third part is devoted to study, the asymptotic behavior of the solutions of the problem when the two domains are a ball and its complementary. Exterior fractional Sobolev and Nash inequalities of independent interest are also provided in Appendix A.
+We consider a family of singular Volterra integral equations that appear in the study of monotone travelling-wave solutions for a family of diffusion-convection-reaction equations involving the p-Laplacian operator. Our results extend the ones due to B. Gilding for the case p=2. The fact that p≠2 modifies the nature of the singularity in the integral equation, and introduces the need to develop some new tools for the analysis. The results for the integral equation are then used to study the existence and properties of travelling-wave solutions for doubly nonlinear diffusion-reaction equations in terms of the constitutive functions of the problem. 
 
-[Link](https://www.worldscientific.com/doi/abs/10.1142/S1664360721500077)
+[Link](https://arxiv.org/abs/2001.11109)
 
