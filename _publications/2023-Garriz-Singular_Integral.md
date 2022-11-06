@@ -1,7 +1,7 @@
 ---
 title: "Singular integral equations with applications to travelling waves for doubly nonlinear diffusion"
 collection: publications
-permalink: /publications/2021-Garriz-Ignat
+permalink: /publications/2023-Garriz-Singular_Integral
 excerpt: ''
 date: 2023-01-01
 venue: 'Bulletin of Mathematical Sciences'

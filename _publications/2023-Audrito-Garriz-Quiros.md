@@ -1,7 +1,7 @@
 ---
 title: "Convergence in relative error for the Porous Medium equation in a tube - A. Audrito, A. Gárriz & F. Quirós"
 collection: publications
-permalink: /publications/2021-Audrito-Garriz-Quiros
+permalink: /publications/2023-Audrito-Garriz-Quiros
 excerpt: ''
 date: 2023-01-01
 venue: 'arxiv'
