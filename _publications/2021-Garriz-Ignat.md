@@ -5,8 +5,8 @@ permalink: /publications/2021-Garriz-Ignat
 excerpt: ''
 date: 2021-05-18
 venue: 'Bulletin of Mathematical Sciences'
-paperurl: 'https://www.worldscientific.com/doi/abs/10.1142/S1664360721500077'
-citation: 'Gárriz, A.; Ignat, L. "A non-local coupling model involving three fractional laplacians". *Bulletin of Mathematical Sciences* Vol. 11, No. 02, 2150007 (2021)
+paperurl: ''
+citation: 'Gárriz, A.; Ignat, L. "A non-local coupling model involving three fractional laplacians". <i>Bulletin of Mathematical Sciences</i> Vol. 11, No. 02, 2150007 (2021)
 '
 ---
 **Abstract**
@@ -15,4 +15,3 @@ In this paper, we study a non-local diffusion problem that involves three differ
 
 [Link](https://www.worldscientific.com/doi/abs/10.1142/S1664360721500077)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
