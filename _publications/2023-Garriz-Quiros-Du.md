@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2023-Garriz-Quiros-Du
 excerpt: ''
 date: 2023-01-01
-venue: 'Bulletin of Mathematical Sciences'
+venue: arxiv
 paperurl: ''
 citation: 'Du, Y.; Gárriz, A.; Quirós, F. "Travelling-wave behaviour in doubly nonlinear reaction-diffusion equations". Preprint. Available at arXiv
 '

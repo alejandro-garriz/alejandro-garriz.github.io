@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2023-Garriz-Singular_Integral
 excerpt: ''
 date: 2023-01-01
-venue: 'Bulletin of Mathematical Sciences'
+venue: arxiv
 paperurl: ''
 citation: 'Gárriz, A. "Singular integral equations with applications to travelling waves for doubly nonlinear diffusion." Preprint. Available at arXiv
 '
