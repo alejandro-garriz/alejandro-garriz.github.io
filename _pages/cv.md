@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 [Download here](/files/CV_Alejandro.Garriz.Molina.pdf)
+
+
 Education
 ======
 * Doctor Cum Laude in Mathematics, 2021
