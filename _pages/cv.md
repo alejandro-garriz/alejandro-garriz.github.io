@@ -8,33 +8,43 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+[Download here](/files/CV_Alejandro.Garriz.Molina.pdf)
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Doctor Cum Laude in Mathematics, 2021
+* Master in Mathematics and Applications, 2016
+* Degree in Mathematics, 2015
+* Degree in Computer Sciences, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Post-Doctoral Researcher (2021-2023)
+  * CNRS
+  * Supervisor: Professor S. Mirrahimi
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Doctoral researcher(2020-2021)
+  * ICMAT
+  * Supervisor: Fernando Quirós
+
+Research Stays
+======
+* Institute of Mathematics of Granada (2021)
+  * Invited by Professor J. A. Cañizo
+
+* University of Bucharest (2019)
+  * Invited by Professor L. Ignat
+
+* University of Buenos Aires (2018)
+  * Invited by Professor J. D. Rossi
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Spanish - Native
+* English - C1
+* Français - C1
+* Software Developement
+* Python
+* Teaching (University Level)
 
 Publications
 ======
@@ -53,7 +63,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
