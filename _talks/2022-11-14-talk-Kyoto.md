@@ -1,10 +1,10 @@
 ---
-title: "RIMS Symposium - Mathematical Analysis on pattern formation, propagation and interfacial phenonema - November 2022, Tokyo Univeristy, Tokyo, Japan"
+title: "RIMS Symposium - Mathematical Analysis on pattern formation, propagation and interfacial phenonema"
 collection: talks
 type: "Talk"
 permalink: /talks/2022-11-14-talk-Kyoto
 venue: "Kyoto University"
-date: 2014-11-14
+date: 2022-11-14
 location: "Kyoto, Japan"
 ---
 
